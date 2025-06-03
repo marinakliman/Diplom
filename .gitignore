@@ -1,0 +1,19 @@
+# Composer
+/vendor
+composer.phar
+
+# IDE settings
+.buildpath
+.project
+.settings
+
+# PHPUnit
+phpunit.phar
+/phpunit.xml
+tests/_output/*
+
+# Vagrant machine folder
+/.vagrant
+
+# Environment
+.env
